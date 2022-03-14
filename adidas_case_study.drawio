@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T07:31:28.619Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="6xvbN4UW1tIBifXr2RJh" version="16.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T13:19:08.804Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="H9JGTDXjzqx1I1yqxupB" version="17.1.2" type="github">
   <diagram id="aH14h_0UKPlvTHgDtw_c" name="Page-1">
-    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,22 +34,22 @@
         <mxCell id="LEBhTKfpIpsFt737h_JH-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="LEBhTKfpIpsFt737h_JH-20" source="LEBhTKfpIpsFt737h_JH-12" target="LEBhTKfpIpsFt737h_JH-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8fJSVXi6OJoHLEk2ZYYb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="LEBhTKfpIpsFt737h_JH-20" source="8fJSVXi6OJoHLEk2ZYYb-1" target="LEBhTKfpIpsFt737h_JH-6">
+        <mxCell id="8fJSVXi6OJoHLEk2ZYYb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="LEBhTKfpIpsFt737h_JH-20" source="8fJSVXi6OJoHLEk2ZYYb-1" target="LEBhTKfpIpsFt737h_JH-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8fJSVXi6OJoHLEk2ZYYb-1" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.lambda;" vertex="1" parent="LEBhTKfpIpsFt737h_JH-20">
+        <mxCell id="8fJSVXi6OJoHLEk2ZYYb-1" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.lambda;" parent="LEBhTKfpIpsFt737h_JH-20" vertex="1">
           <mxGeometry x="160" y="199" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LEBhTKfpIpsFt737h_JH-11" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" parent="LEBhTKfpIpsFt737h_JH-20" vertex="1">
           <mxGeometry x="30" y="180" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="8fJSVXi6OJoHLEk2ZYYb-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;" edge="1" parent="LEBhTKfpIpsFt737h_JH-20" source="LEBhTKfpIpsFt737h_JH-11" target="8fJSVXi6OJoHLEk2ZYYb-1">
+        <mxCell id="8fJSVXi6OJoHLEk2ZYYb-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;" parent="LEBhTKfpIpsFt737h_JH-20" source="LEBhTKfpIpsFt737h_JH-11" target="8fJSVXi6OJoHLEk2ZYYb-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="108" y="219" as="sourcePoint" />
             <mxPoint x="270" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8fJSVXi6OJoHLEk2ZYYb-5" value="Lambda" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="LEBhTKfpIpsFt737h_JH-20">
+        <mxCell id="8fJSVXi6OJoHLEk2ZYYb-5" value="Lambda" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="LEBhTKfpIpsFt737h_JH-20" vertex="1">
           <mxGeometry x="150" y="270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LEBhTKfpIpsFt737h_JH-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="LEBhTKfpIpsFt737h_JH-2" target="LEBhTKfpIpsFt737h_JH-11" edge="1">
@@ -136,6 +136,12 @@
         </mxCell>
         <mxCell id="LEBhTKfpIpsFt737h_JH-52" value="Athena" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="630" y="620" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3bK3C8u1f8b7Yg_adf_3-1" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3bK3C8u1f8b7Yg_adf_3-3" value="We will utilize MWAA (Managed Airflow) for scheduling all the pipeline. Alternately, we can utilize Step Functions if we intend to use Glue jobs for ingestion of data sources&lt;br&gt;Steps performed for ingestion of any data source&lt;br&gt;&lt;ul&gt;&lt;li&gt;Lambda is utilized to extract data from any FTP/RDBMS sources. Lambda can be scheduled to trigger every x interval if data is frequently required to be ingested&lt;/li&gt;&lt;li&gt;Once data is landed at any S3 prefix, another lambda will triggered. We will set this lambda to be triggered if any file is pushed to S3&lt;/li&gt;&lt;li&gt;The lambda will validate all the pre-requisites and trigger the Airflow DAG for this particular file&lt;/li&gt;&lt;li&gt;EMR will process the file performing file sanity checks, Standardization and quality checks. Finally the file will be published on Redshift/RDS based on the requirement. DB&#39;s will only keep the latest copy (SCD-1/SCD-2) and the historical loads will stored in S3&lt;/li&gt;&lt;li&gt;With help of Glue crawler, we can expose the data present in S3 location as Table on Athena. This will satisfy the use cases where analyst require to perform any analysis on raw/historical data&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#B3B3B3;fontFamily=Verdana;spacingTop=0;fillColor=none;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="900" y="60" width="500" height="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
